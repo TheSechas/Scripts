@@ -1,0 +1,1 @@
+Crear Dominio en una maquina (DC01) y unirse al segundo dominio en la segunda máquina (DC02), crear Uninades Organizativas y Grupos dentro de ellas y dentro de los Grupos 1000 usuarios importados desde un CSV.
